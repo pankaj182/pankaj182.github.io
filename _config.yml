@@ -1,3 +1,11 @@
 theme: jekyll-theme-slate
 domain: pankaj182.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://pankaj182.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+title: Neatcode
+author: Pankaj Kumar
+
+social-network-links:
+  email: "pankajkumar1802@gmail.com"
+  facebook: pankaj182
+  github: pankaj182
+  linkedin: pankaj182
